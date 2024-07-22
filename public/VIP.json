@@ -4636,15 +4636,6 @@
       "main": {
         "value": "linear-gradient(#352920 0%, #161113 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for navbar bg"
       },
       "additional": {
