@@ -2629,7 +2629,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient( #0F0A0740 0%, #0B090740 100%)",
+        "value": "linear-gradient(#0F0A0740 0%, #0B090740 100%)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
