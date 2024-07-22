@@ -3081,16 +3081,8 @@
         "description": "separator in filter provider item"
       },
       "basa": {
-        "value": "linear-gradient( #7D5233 0%, #EACA92 50%, #7D5233 100%)",
+        "value": "linear-gradient(#7D5233 0%, #EACA92 50%, #7D5233 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
         },
         "description": "separator in filter provider item"
       }
