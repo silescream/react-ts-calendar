@@ -2484,10 +2484,6 @@
           "type": "color",
           "description": "bg for provider card"
         },
-        "": {
-          "value": "#",
-          "type": "color"
-        }
       },
       "border": {
         "1": {
